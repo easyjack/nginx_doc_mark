@@ -120,9 +120,15 @@ proxy_cookie_domain ~\.([a-z]+\.[a-z]+)$ $1;
 
 
 不同的nginx变量
+
 $request_method
+
 $schema
+
 $proxy_host
+
 $request_uri
+
 $host
+
 $cookie_user
